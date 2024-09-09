@@ -1,16 +1,17 @@
-## Hi there 👋
+### Bem vindos ao meu perfil💙
 
-<!--
-**leezampieri/leezampieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leticia Zampieri Bueno 
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou me desenvolvendo na linguagem Javascript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo📪
+
+00001110376030sp@.al.educacao.sp.gov.br
+
+@leticia.zampieri_
+
+
+![](https://media1.tenor.com/m/cRH9aB8j8m4AAAAd/cat-dance-slow-dance.gif)
+
