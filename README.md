@@ -13,6 +13,7 @@ Meu nome é Leticia Zampieri Bueno
 @leticia.zampieri_
 
 
-![](https://media1.tenor.com/m/gL6j1Lm5bIQAAAAd/cat-cat-tongue.gif)
+![](https://media.tenor.com/-qBsG1HwR4oAAAAM/cat-dance-dancing-cat.gif)
+
 
 
